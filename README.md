@@ -11,3 +11,5 @@ The Course is about Introduction to Programming Using C++ Level 2.
 ---
 
 **Tools:** `Visual Studio`, `Visual Studio Code`.
+
+**Libraries:** `string`, `cctype`, `fstream`.
